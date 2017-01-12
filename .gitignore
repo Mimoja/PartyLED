@@ -1,0 +1,5 @@
+
+MusicBeam/application.*
+releases/
+build*
+.DS_Store
