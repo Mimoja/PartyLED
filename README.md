@@ -1,5 +1,7 @@
 Beatdetection to be streamed to a WS2812 LED strip
 
+Based on "MusicBeam" project
+
 Copyright (c) 2014-2016 Maximilian Schander <max-schander@freenet.de>
 Copyright (c) 2012-2014 Johannes Hoppe <info@johanneshoppe.com>
 
